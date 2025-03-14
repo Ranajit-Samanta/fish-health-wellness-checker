@@ -234,7 +234,7 @@ with col2:
     st.image("WhatsApp Image 2025-02-27 at 10.46.06 PM.jpeg",width=270)
 
 
-# ======= BRANCH BIOMASS CALCULATOR =======
+# ======= FCR CALCULATOR =======
 col1, col2 = st.columns([2, 1])
 with col1:
     st.write("<h1 style='color: purple;'>FEED CONVERSION RATIO CALCULATOR</h1>", unsafe_allow_html=True)
